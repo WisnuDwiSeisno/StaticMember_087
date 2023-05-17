@@ -17,3 +17,6 @@ public:
 
 } bukunya;
 
+int main() {
+
+}
